@@ -1,6 +1,7 @@
-html {height: 200%;
-width: 200%;
-
+.image {
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 100vh;
 
 }
-    
